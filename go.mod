@@ -1,4 +1,4 @@
-module github.com/billykwooten/go-ecobee
+module github.com/blawson327/go-ecobee
 
 go 1.16
 
